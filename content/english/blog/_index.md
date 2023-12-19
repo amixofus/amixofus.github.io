@@ -1,5 +1,5 @@
 ---
 title: "Blog Posts"
-meta_title: ""
-description: "this is meta description"
+meta_title: "Blogs"
+description: "This is the index file for our blogs"
 ---

@@ -1,13 +1,13 @@
-############# English navigation ##############
+############# French navigation ##############
 
 # main menu
 [[main]]
-name = "Home"
+name = "Acceuil"
 url = "/"
 weight = 1
 
 [[main]]
-name = "About"
+name = "À propos"
 url = "about/"
 weight = 2
 
@@ -28,21 +28,21 @@ url = "contact/"
 
 [[main]]
 parent = "Pages"
-name = "Authors"
+name = "Auteurs"
 url = "authors/"
 
 [[main]]
 parent = "Pages"
-name = "Categories"
+name = "Catégories"
 url = "categories/"
 
 # footer menu
 [[footer]]
-name = "About"
+name = "À propos"
 url = "about/"
 weight = 1
 
 [[footer]]
-name = "Privacy Policy"
+name = "Politique de confidentialité"
 url = "privacy-policy/"
 weight = 2
