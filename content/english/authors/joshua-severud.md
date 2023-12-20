@@ -1,7 +1,7 @@
 ---
 title: Joshua Severud
 email: contact@joshuaseverud.com
-image: "/images/avatar.png"
+image: "/images/jseverud.png"
 description: This is about Joshua Severud
 social:
   - name: github
