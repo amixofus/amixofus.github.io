@@ -1,7 +1,7 @@
 ---
 # Banner
 banner:
-  title: "C'est le titre de notre blog"
+  title: "A MIX OF US"
   content: "This is something that we can say about our blog."
   image: "/images/banner.png"
   button:

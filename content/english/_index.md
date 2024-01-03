@@ -1,8 +1,8 @@
 ---
 # Banner
 banner:
-  title: "This is the Title of Our Blog"
-  content: "This is something that we can say about our blog."
+  title: "A MIX OF US"
+  content: "A blog for us where you can find stories and advice based off our extensive travel and experience"
   image: "/images/banner.png"
   button:
     enable: false
@@ -11,14 +11,15 @@ banner:
 
 # Features
 features:
-  - title: "We can have as many or as few of these as we want."
+  - title: "A short introduction"
     image: "/images/service-1.png"
-    content: "If/when we add more of these modules, keep the format of this one."
+    content: "On this website you will find posts from both Aurélie and Joshua. Just navigate to the top of the page to start exploring! You can expect to find the following topics:"
     bulletpoints:
-      - "Bullet 1"
-      - "Bullet 2"
+      - "Travel"
+      - "Philosophy"
+      - "Observations"
     button:
-      enable: false
-      label: "Get Started Now"
-      link: "#"
+      enable: true
+      label: "BLOG"
+      link: "/blog"
 ---
