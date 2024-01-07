@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "A MIX OF US"
-  content: "A blog for us where you can find stories and advice based off our extensive travel and experience"
+  content: "A blog for us where you can find stories and advice based off our extensive travel and experience."
   image: "/images/banner.png"
   button:
     enable: false

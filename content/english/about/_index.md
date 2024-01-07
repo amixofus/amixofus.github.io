@@ -1,5 +1,5 @@
 ---
-title: "About Us"
+title: "ABOUT US"
 meta_title: "About"
 description: "This is about us"
 image: "/images/avatar.png"
